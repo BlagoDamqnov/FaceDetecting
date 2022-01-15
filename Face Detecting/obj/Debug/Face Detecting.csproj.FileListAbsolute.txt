@@ -1,0 +1,44 @@
+D:\Project\Face Detecting\Face Detecting\bin\Debug\face.xml
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Face Detecting.exe.config
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Face Detecting.exe
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Face Detecting.pdb
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.csproj.AssemblyReference.cache
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.csproj.SuggestedBindingRedirects.cache
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face_Detecting.Form1.resources
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face_Detecting.Properties.Resources.resources
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.csproj.GenerateResource.cache
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.csproj.CoreCompileInputs.cache
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.csproj.CopyComplete
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.exe
+D:\Project\Face Detecting\Face Detecting\obj\Debug\Face Detecting.pdb
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x64\concrt140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x64\cvextern.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x64\msvcp140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x64\vcruntime140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x86\concrt140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x86\cvextern.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x86\msvcp140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\x86\vcruntime140.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Emgu.CV.UI.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Emgu.CV.World.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\System.Drawing.Common.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\ZedGraph.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Emgu.CV.UI.xml
+D:\Project\Face Detecting\Face Detecting\bin\Debug\Emgu.CV.World.xml
+D:\Project\Face Detecting\Face Detecting\bin\Debug\System.Drawing.Common.xml
+D:\Project\Face Detecting\Face Detecting\bin\Debug\ZedGraph.xml
+D:\Project\Face Detecting\Face Detecting\bin\Debug\de\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\es\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\fr\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\hu\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\it\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\ja\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\pt\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\ru\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\sk\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\sv\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\tr\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Project\Face Detecting\Face Detecting\bin\Debug\zh-tw\ZedGraph.resources.dll
